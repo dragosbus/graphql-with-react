@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "23",
-      "firstName": "Bill",
+      "firstName": "Billl",
       "age": 23,
       "companyId": "2"
     },
@@ -20,7 +20,15 @@
     }
   ],
   "companies": [
-    {"id": "1", "name":"Apple", "description": "iphone"},
-    {"id": "2", "name":"Google", "description": "android"}
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "android"
+    }
   ]
 }
